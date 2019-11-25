@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="b1142d8a-555b-42aa-883c-8252d0c4956b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/MLsheet4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ML.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_1/Pre.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_regression/EX_1/Pre.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_1/linear-res.npz" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_regression/EX_1/linear-res.npz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_1/pro_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_regression/EX_1/pro_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_1/pro_1_improved.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_regression/EX_1/pro_1_improved.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_2/linear-unc1.npz" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_regression/EX_2/linear-unc1.npz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_2/linear-unc2.npz" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_regression/EX_2/linear-unc2.npz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_2/linear-unc3.npz" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_regression/EX_2/linear-unc3.npz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_2/pro_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_regression/EX_2/pro_1.py" afterDir="false" />
+    </list>
+=======
+    <list default="true" id="995c8c80-a4cc-44f7-8f0b-fce7da0ef727" name="Default Changelist" comment="" />
+>>>>>>> commit
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TZHfPKH0xo2WRaUU3DvYsOaQxl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yuchen\PycharmProjects\MLsheet4\Linear_regression" />
+    </key>
+  </component>
+=======
+  <component name="ProjectId" id="1U3eDw0iTwoUIuRTDtuHbyT3X1D" />
+>>>>>>> commit
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.pro_1_improved">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="MLsheet4" />
+=======
+  <component name="RunManager" selected="Python.kernel_func">
+    <configuration name="Gaussprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML" />
+>>>>>>> commit
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="num_1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MLsheet4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Yuchen\PycharmProjects\MLsheet4\EX_1\pro_1.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regularization_and_GP/GP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regularization_and_GP/GP/Gaussprocess.py" />
+>>>>>>> commit
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="num_1_improved" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MLsheet4" />
+=======
+    <configuration name="kernel_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML" />
+>>>>>>> commit
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Yuchen\PycharmProjects\MLsheet4\EX_1\pro_1_improved.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regularization_and_GP/GP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regularization_and_GP/GP/kernel_func.py" />
+>>>>>>> commit
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="num_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MLsheet4" />
+=======
+    <configuration name="pro_1_improved" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML" />
+>>>>>>> commit
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX_1/num_2.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linear_regression/EX_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linear_regression/EX_1/pro_1_improved.py" />
+>>>>>>> commit
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="pro_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MLsheet4" />
+=======
+    <configuration name="pro_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML" />
+>>>>>>> commit
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX_2/pro_1.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regularization_and_GP/EX_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regularization_and_GP/EX_1/pro_3.py" />
+>>>>>>> commit
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="pro_1_improved" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MLsheet4" />
+=======
+    <configuration name="try_meshgrid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML" />
+>>>>>>> commit
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linear_regression/EX_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linear_regression/EX_1/pro_1_improved.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regularization_and_GP/EX_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regularization_and_GP/EX_1/try_meshgrid.py" />
+>>>>>>> commit
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="MLsheet4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="MLsheet4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="MLsheet4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pro_1_improved" />
+        <item itemvalue="Python.pro_1" />
+        <item itemvalue="Python.num_1_improved" />
+        <item itemvalue="Python.num_1 (2)" />
+        <item itemvalue="Python.num_2 (1)" />
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kernel_func" />
+        <item itemvalue="Python.Gaussprocess" />
+        <item itemvalue="Python.pro_3" />
+        <item itemvalue="Python.pro_1_improved" />
+        <item itemvalue="Python.try_meshgrid" />
+>>>>>>> commit
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="b1142d8a-555b-42aa-883c-8252d0c4956b" name="Default Changelist" comment="" />
+      <created>1573660799086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573660799086</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+=======
+      <changelist id="995c8c80-a4cc-44f7-8f0b-fce7da0ef727" name="Default Changelist" comment="" />
+      <created>1574589589754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574589589754</updated>
+    </task>
+    <servers />
+  </component>
+>>>>>>> commit
+</project>
