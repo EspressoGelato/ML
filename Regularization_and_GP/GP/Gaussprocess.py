@@ -14,8 +14,8 @@ def plot_unit_gaussian_samples(D):
         ys=np.random.multivariate_normal(np.zeros(D),np.eye(D))
         p=plt.plot(xs,ys)
     return p
-
-plt.show(plot_unit_gaussian_samples(10))
+plot_unit_gaussian_samples(10)
+plt.show()
 
 
 

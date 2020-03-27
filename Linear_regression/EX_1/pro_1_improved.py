@@ -1,22 +1,22 @@
-<<<<<<< HEAD
+
 import Linear_regression.EX_1.Pre
-=======
+
 #import sys
 #sys.path.append('C:/Users/Yuchen/PycharmProjects')
 #import ML.Linear_regression.EX_1.Pre
 import Pre
->>>>>>> commit
+
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 plt.rcParams["figure.figsize"] = (20,10)
 
-<<<<<<< HEAD
 tmp=np.load('C:/Users/Yuchen/PycharmProjects/MLsheet4/Linear_regression/EX_1/linear-res.npz')
-=======
+
+
 tmp=np.load('./linear-res.npz')
->>>>>>> commit
+
 X=tmp['X']
 Y=tmp['Y']
 plt.scatter(X,Y)
@@ -25,20 +25,20 @@ sns.despine()
 
 #fit with
 
-<<<<<<< HEAD
+
 beta= Linear_regression.EX_1.Pre.fit_beta(X, Y)
-=======
+
 beta=Pre.fit_beta(X, Y)
->>>>>>> commit
+
 Xseq = np.arange(-5,5,0.1)
 Yhat=beta[0]+beta[1]*Xseq
 
 Xsq=np.vstack([X,X**2])#square each element
-<<<<<<< HEAD
+
 betasq= Linear_regression.EX_1.Pre.fit_beta(Xsq, Y)
-=======
+
 betasq=Pre.fit_beta(Xsq, Y)
->>>>>>> commit
+
 Xseq=np.arange(-5,5,0.1)
 Yhatsq=betasq[0]+betasq[1]*Xseq+betasq[2]*Xseq**2
 plt.scatter(X,Y)

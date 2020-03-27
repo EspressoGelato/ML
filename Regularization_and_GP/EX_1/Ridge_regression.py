@@ -12,7 +12,7 @@ def L2_r(delta=0.01):
     #print(x,y)
     #print(X,Y)
     Z =X**2+Y**2
-    plt.contourf(X, Y, Z)
+    plt.contour(X, Y, Z)
 
 
 

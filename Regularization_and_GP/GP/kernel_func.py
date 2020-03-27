@@ -4,12 +4,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def kernel(xs,ys,sigma=1):
+def kernel(xs,ys,sigma=1,l=1):
     # Squared exponential kernel designed to return the whole
     # covariance matrix
 
     dx=np.expand_dims(xs,1)-np.expand_dims(ys,0)
-    return (sigma**2)*np.exp(-((dx/1)**2)/2)
+    print('dx',dx)
+    return (sigma**2)*np.exp(-((dx/l)**2)/2)
 
 def m(x):
     # Let the mean always be zero
@@ -18,8 +19,11 @@ def m(x):
 p=plt.figure()
 D=100
 xs=np.linspace(-5,5,D)
+#print('xs=',xs)
 for i in range(0,11):
     ys=np.random.multivariate_normal(m(xs),kernel(xs,xs))
+    #print('kernel=',kernel(xs,xs))
+    #print('ys=',ys)
     #p=plt.scatter(xs,ys)
     p=plt.plot(xs,ys)
 plt.show(p)
